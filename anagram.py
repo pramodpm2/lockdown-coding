@@ -1,3 +1,7 @@
+'''
+An Anagram of a string is another string that contains same characters, only the order of characters can be different.
+For example, "act" and "cat" are anagram of each other.
+'''
 count=0
 string1=input('Enter 1st string : ')
 string2=input('Enter the 2nd string: ')
